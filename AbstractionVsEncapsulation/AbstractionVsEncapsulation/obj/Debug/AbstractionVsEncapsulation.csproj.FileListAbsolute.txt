@@ -1,0 +1,7 @@
+D:\Practices\AbstractionVsEncapsulation\AbstractionVsEncapsulation\bin\Debug\AbstractionVsEncapsulation.exe.config
+D:\Practices\AbstractionVsEncapsulation\AbstractionVsEncapsulation\bin\Debug\AbstractionVsEncapsulation.exe
+D:\Practices\AbstractionVsEncapsulation\AbstractionVsEncapsulation\bin\Debug\AbstractionVsEncapsulation.pdb
+D:\Practices\AbstractionVsEncapsulation\AbstractionVsEncapsulation\obj\Debug\AbstractionVsEncapsulation.csprojAssemblyReference.cache
+D:\Practices\AbstractionVsEncapsulation\AbstractionVsEncapsulation\obj\Debug\AbstractionVsEncapsulation.csproj.CoreCompileInputs.cache
+D:\Practices\AbstractionVsEncapsulation\AbstractionVsEncapsulation\obj\Debug\AbstractionVsEncapsulation.exe
+D:\Practices\AbstractionVsEncapsulation\AbstractionVsEncapsulation\obj\Debug\AbstractionVsEncapsulation.pdb
